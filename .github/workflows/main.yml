@@ -7,10 +7,10 @@ jobs:
   deploy:
     runs-on: ubuntu-latest
     if: github.event.repository.fork == false
+    container:
+        image: albertkun/mkdocs-teaching-materials
     steps:
        - uses: actions/checkout@v2
-       - name: Run the Docker image
-         uses: docker://albertkun/mkdocs-teaching-materials
        - run: mkdocs gh-deploy --force
 env:
   GH_TOKEN: ${{secrets.GH_TOKEN}}          
