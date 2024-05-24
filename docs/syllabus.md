@@ -37,34 +37,19 @@ Impact of Community-based and Participatory Mapping
 
 ## Course Description
 
-Welcome to our journey into web programming and mapping! This course is designed for non-mappers and non-coders to bridge the divide between spatial data and using it in the non-profit world for activism.
+Welcome to our journey into web programming, mapping! This course is designed for non-mappers and non-coders to bridge the divide between spatial data and its application in the non-profit world for activism.
 
-Spatial data is all around us, whether its survey information with zip
-codes or the various landmarks that comprise what people consider their
-neighborhood. While maps, like census tracts or political boundaries are
-traditionally extensions of authorities of power, participatory mapping
-seeks to break down those barriers. The objective of this course is to
-put mapping into the hands of students so that they can transfer these
-skills and frameworks to civil society.
+Spatial data is all around us, whether it's survey information with zip codes or the various landmarks that comprise what people consider their neighborhood. While maps, like census tracts or political boundaries, are traditionally extensions of authorities of power, participatory mapping seeks to break down those barriers. The objective of this course is to put mapping into the hands of students so that they can transfer these skills and frameworks to civil society.
 
-The way COVID-19 played out in the United States underscored the
-institutional problems related to health, inequality, and the
-environment in the United States of America. The global crisis of
-climate change reinforces the institutional racism and environmental
-issues that have proliferated far beyond the U.S. national borders.
-Given all these issues, more so than ever, civil society is needed to
-build the coalitions and reassess priorities to usher in an era of
-political change.
+The way COVID-19 played out in the United States underscored the institutional problems related to health, inequality, and the environment. The global crisis of climate change reinforces the institutional racism and environmental issues that have proliferated far beyond the U.S. national borders. 
 
-Mapping and data are transformative tools that strengthen these
-connections between coalitions because they are representations of the
-physical world around us. However, in non-profits and other fields of
-civic engagement, these tools are underutilized or simply seen as tools
-“left to the experts”. This course prepares students to be informed
-digital citizens and transfer these tools for practical application in
-civil society. The two main objectives for this course are: 
+Recent student protests across campuses, including the events at UCLA on May 1st, 2024, where our peaceful community of pro-Palestinian students, staff, and faculty members faced police brutality, highlight the urgent need for change and the power of collective action. These events underscore the importance of building coalitions and using data, maps, and AI as tools to communicate, organize, and drive change.
 
-1. To walk away with technical web development skills relevant to mapping for civil society
+Given all these issues, more so than ever, civil society is needed to build the coalitions and reassess priorities to usher in an era of political change. Mapping, data, and AI are transformative tools that strengthen these connections between coalitions because they are representations of the physical world around us. 
+
+However, in non-profits and other fields of civic engagement, these tools are underutilized or simply seen as tools “left to the experts”. This course prepares students to be informed digital citizens and transfer these tools for practical application in civil society. The two main objectives for this course are: 
+
+1. To walk away with technical web development skills relevant to mapping for civil society.
 2. To apply an ethical mapping framework to such projects.
 
 ## Course Objectives
@@ -76,7 +61,7 @@ civil society. The two main objectives for this course are:
 -   Learn transferable technical data and mapping skills as applied
     through action-oriented, collaborative, and project-based research.
 
--   Learn to critically assess datasets, digital mapping/ visualization
+-   Learn to critically assess datasets, digital mapping/visualization and AI 
     technologies for use in non-profits
 
 -   Learn to create an interactive web map that uses community-based
@@ -97,10 +82,9 @@ civil society. The two main objectives for this course are:
 
 !!! info
 
-    Though in-person attendence is recommended, lectures will be recorded and provided to students.
+    Given the fast-paced nature of the course, lectures may be recorded on request and provided to students.
 
-Even though remote learning has been in session for a few years now, we find ourselves in a hybrid situation. For students attending online, please respectful of various difficulties
-associated with teaching both in an offline and online setting that others may have. I hope that you
+Even though remote learning has become more common since the pandemic, I hope that you
 will communicate with me if you experience anything in this course that
 does not support an inclusive environment. You can also report any
 incidents you may witness or experience online the Office of Equity,
@@ -126,7 +110,7 @@ Please be sure to have required software installed prior to lab sessions. Reach 
 
 ### Lab Assistance
 
-While the goal in the course is to ease everyone into GIS and writing code, I understand that the process may be intimidating and difficult. Rest assured that your success is my success, and I will try my best in making a learning environment that breaks down these initial barriers. We all have gone through the same struggles learning new technology, and I strongly encourage you get help as often as possible. Steps for troubleshooting technical problems can often be solved by a quick online search or reviewing lab materials for a misstep. The class community discussion forums is another resource for help. Regardless, do not hesitate to reach out to me for help.
+While the goal in the course is to ease everyone into GIS and writing code, I understand that the process may be intimidating and difficult. Rest assured that **your success is my success**, and I will try my best in making a learning environment that breaks down these initial barriers. We all have gone through the same struggles learning new technology, and I strongly encourage you get help as often as possible. Steps for troubleshooting technical problems can often be solved by a quick online search or reviewing lab materials for a misstep. The class community discussion forums is another resource for help. Regardless, do not hesitate to reach out to me for help.
 
 ## Assignments and Evaluation
 
@@ -140,7 +124,7 @@ attend all lectures and labs each week.
 
 | **Task**                       | **Number of items** | **Points** | **Total Points** | **Total Grade** |
 |--------------------------------|---------------------|------------|------------------|-----------------|
-| Individual assignments         | 15                  | 30          | 450              | 45%             |
+| Individual assignments         | 10                  | 45          | 450              | 45%             |
 | Final Project and Presentation | 1                   | 250        | 250              | 25%             |
 | Group Project Assignments             | 4                   | 50         | 200              | 20%             |
 | Participation                  |                     |            | 100              | 10%             |
@@ -150,10 +134,10 @@ attend all lectures and labs each week.
 
 ### Participation
 
-While participation is somewhat subjective, as long as you are active in the course you should not worry. The following are examples of active participation:
+While participation is subjective, as long as you are active in the course you should not worry. The following are examples of active participation:
   - Participating in class discussions 
-  - Asking questions on the GitHub discussion board
-  - Helping other students on the discussion board
+  - Asking questions on Discord or the GitHub discussion board
+  - Helping other students with their questions
   - Coming to office hours
   - Overall class attendence
 
@@ -175,13 +159,20 @@ I expect you to take advantage of the opportunities that this course
 offers you by being an active and thoughtful participant in all sections
 and lectures, by coming to lecture and section prepared, and by trying
 your best on the various elements of the course. I expect you to take
-ownership of your learning and to reach out to me if you are struggling or have concerns. I expect you to take
-the opportunity to learn from your peers through activities in lecture
-and section, and I expect you to be respectful and courteous to one
+ownership of your learning and to reach out to me if you are struggling or have concerns. I expect you to take the opportunity to learn from your peers through activities in lecture
+and lab section, and I expect you to be respectful and courteous to one
 another. Finally, I expect you to hold yourself to the highest standards
 for academic honesty and integrity in your work.
 
 ## **Course Outline**
+
+## **Course Outline**
+### Preparation:
+- Fill out the [pre-course survey](https://forms.gle/nifb6shCtFvEftZY7)
+- Download and install [VS Code](https://code.visualstudio.com/)
+- Download and install [Firefox](https://www.firefox.com/)
+
+If you have any issues with installing the above, please do not hesitate to contact me at albertkun@oarc.ucla.edu.
 
 <table>
 <thead>
@@ -201,30 +192,18 @@ for academic honesty and integrity in your work.
 </tr>
 <tr class="odd">
 <td>3</td>
-<td><strong>Open Source and Web Mapping</strong></td>
+<td><strong>Society, Technology, and Ethics</strong></td>
 </tr>
 <tr class="even">
 <td>4</td>
-<td><strong>Society, Technology, and Ethics</strong></td>
+<td><strong>Designing for Civil Society</strong></td>
 </tr>
 <tr class="odd">
 <td>5</td>
-<td><strong>Developing for Civil Society</strong></td>
+<td><strong>Mentorship and Collaboration </strong></td>
 </tr>
 <tr class="odd">
 <td>6</td>
-<td><strong>Human-Centered Design</strong></td>
-</tr>
-<td>7</td>
-<td><strong>From Design to Data Justice</strong></td>
-</tr>
-<td>8</td>
-<td><strong>Mentorship and Collaboration</strong></td>
-</tr>
-<td>9</td>
-<td><strong>Connecting Activism and Technology</strong></td>
-</tr>
-<td>10</td>
 <td><strong>Beyond Web Development and Social Change</strong></td>
 </tr>
 <td>Finals</td>
