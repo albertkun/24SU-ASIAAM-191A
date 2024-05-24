@@ -3,17 +3,17 @@ FROM python:3
 
 # Install the necessary packages
 RUN pip install mkdocs-material \
-    mkdocs-macros-plugin \
-    mkdocs-encryptcontent-plugin \
-    mkdocs-awesome-pages-plugin \
-    mkdocs-git-revision-date-plugin \
-    mkdocs-awesome-pages-plugin \
-    pygments \
-    pymdown-extensions \
-    mkdocs-table-reader-plugin
+	mkdocs-macros-plugin \
+	mkdocs-encryptcontent-plugin \
+	mkdocs-awesome-pages-plugin \
+	mkdocs-git-revision-date-plugin \
+	mkdocs-awesome-pages-plugin \
+	pygments \
+	pymdown-extensions \
+	mkdocs-table-reader-plugin
 
-# Set the Git safe directory
-RUN git config --global --add safe.directory /github/workspace
+# Set the Git safe directory to root
+RUN git config --global --add safe.directory /
 
 # Set the working directory in the container
 WORKDIR /github/workspace
