@@ -11,7 +11,10 @@ RUN pip install mkdocs-material \
     pygments \
     pymdown-extensions \
     mkdocs-table-reader-plugin
-	
+
+# Set the Git safe directory
+RUN git config --global --add safe.directory /github/workspace
+
 # Set the working directory in the container
 WORKDIR /github/workspace
 

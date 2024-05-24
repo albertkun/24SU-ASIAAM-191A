@@ -7,12 +7,11 @@ jobs:
   deploy:
     runs-on: ubuntu-latest
     if: github.event.repository.fork == false
+    container:
+        image: albertkun/mkdocs-teaching-materials
     steps:
        - uses: actions/checkout@v2
-       - name: Deploy
-         uses: docker://ghcr.io/peaceiris/mkdocs-material:latest
-         with:
-           github_token: ${{ secrets.GH_TOKEN }}
-           build: 'mkdocs gh-deploy --force'
+       - run: mkdocs gh-deploy --force
 env:
+  GH_TOKEN: ${{secrets.GH_TOKEN}}          
   ASIA_191_PASS: ${{secrets.ASIA_191_PASS}}
