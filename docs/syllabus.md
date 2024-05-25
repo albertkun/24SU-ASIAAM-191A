@@ -1,3 +1,10 @@
+
+---
+title: Syllabus
+
+
+---
+
 # Syllabus
 
 Welcome to the syllabus for Asian American Studies 191A - Web Development and GIS for Social Change: Critical Data for Transforming Civil Society.
