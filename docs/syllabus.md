@@ -1,13 +1,13 @@
 # Syllabus
 
-Welcome to the syllabus and course material for Web Development and GIS for Social Change: Critical Data for Transforming Civil Society.
+Welcome to the syllabus for Asian American Studies 191A - Web Development and GIS for Social Change: Critical Data for Transforming Civil Society.
 
 ## Class Details
 Asian American Studies Department, Summer Session A6, 2024
 
 Mondays, Wednesdays 3:15PM – 5:30PM
 
-Public Affairs 2400A
+Online via Zoom
 
 ### Instructor
 Albert S. Kochaphum (albertkun@oarc.ucla.edu)
@@ -37,17 +37,15 @@ Impact of Community-based and Participatory Mapping
 
 ## Course Description
 
-Welcome to our journey into web programming, mapping! This course is designed for non-mappers and non-coders to bridge the divide between spatial data and its application in the non-profit world for activism.
+Welcome to our journey into web programming and mapping! This course has no pre-requisites as it is designed for non-mappers and non-coders to bridge the divide between spatial data and its application in the non-profit world for activism.
 
-Spatial data is all around us, whether it's survey information with zip codes or the various landmarks that comprise what people consider their neighborhood. While maps, like census tracts or political boundaries, are traditionally extensions of authorities of power, participatory mapping seeks to break down those barriers. The objective of this course is to put mapping into the hands of students so that they can transfer these skills and frameworks to civil society.
+Spatial data is all around us, whether it's survey information with zip codes or the various landmarks that comprise what people consider their neighborhood. While maps, like census tracts or political boundaries, are traditionally extensions of authorities of power, participatory mapping seeks to break down those barriers. The objective of this course is to put mapping into the hands of students so that we can transfer these skills and frameworks to civil society.
 
-The way COVID-19 played out in the United States underscored the institutional problems related to health, inequality, and the environment. The global crisis of climate change reinforces the institutional racism and environmental issues that have proliferated far beyond the U.S. national borders. 
+Recent student protests at UCLA during May 2024, where peaceful pro-Palestinian students, staff, and faculty members faced police brutality, highlight the urgent need for change and the power of collective action. The way COVID-19 played out in the United States underscored the institutional problems related to health, inequality, and the environment. The global crisis of climate change reinforces the institutional racism and environmental issues that have proliferated far beyond the U.S. national borders. These challenges all underscore the importance of building coalitions and using data and maps, as tools to communicate, organize, and drive change.
 
-Recent student protests across campuses, including the events at UCLA on May 1st, 2024, where our peaceful community of pro-Palestinian students, staff, and faculty members faced police brutality, highlight the urgent need for change and the power of collective action. These events underscore the importance of building coalitions and using data, maps, and AI as tools to communicate, organize, and drive change.
+Given all these issues, more so than ever, civil society is needed to build the coalitions and reassess priorities to usher in an era of political change. Mapping and data, are transformative tools that when used effectively can strengthen these connections between coalitions because they are representations of the physical world around us. 
 
-Given all these issues, more so than ever, civil society is needed to build the coalitions and reassess priorities to usher in an era of political change. Mapping, data, and AI are transformative tools that strengthen these connections between coalitions because they are representations of the physical world around us. 
-
-However, in non-profits and other fields of civic engagement, these tools are underutilized or simply seen as tools “left to the experts”. This course prepares students to be informed digital citizens and transfer these tools for practical application in civil society. The two main objectives for this course are: 
+However, in non-profits and other fields of civic engagement, these skills are underutilized or simply seen as something “left to the experts”. This course prepares students to be informed digital citizens and transfer these applications for practical use in civil society. The two main objectives for this course are: 
 
 1. To walk away with technical web development skills relevant to mapping for civil society.
 2. To apply an ethical mapping framework to such projects.
