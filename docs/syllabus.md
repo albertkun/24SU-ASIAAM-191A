@@ -17,7 +17,7 @@ Tuesdays, Thursdays 3:15pm – 4pm online and by appointment below:
 - https://calendly.com/aa191a/office-hours
 
 ## Preparation
-- Fill out the [pre-course survey](https://cloud.albertmaps.com/apps/forms/mDqcfgpGimwpC4Ap) **before** the first day of instruction (6/26/2024).
+- Fill out the [pre-course survey](https://cloud.albertmaps.com/apps/forms/s/tNL9DqDRY8ZQ8gLjZBfixT83) **before** the first day of instruction (6/26/2024).
 
 <!-- [Static Syllabus in PDF form](23S-AAS-191A_Syllabus_2024.pdf) -->
 #### Please note: This syllabus is subject to change.
