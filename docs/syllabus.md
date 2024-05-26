@@ -1,8 +1,6 @@
-
 ---
-title: Syllabus
-
-
+hide:
+  - navigation
 ---
 
 # Syllabus
