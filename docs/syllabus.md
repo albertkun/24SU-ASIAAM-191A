@@ -10,7 +10,7 @@ Welcome to the syllabus for Asian American Studies 191A - Web Development and GI
 ## Class Details
 Asian American Studies Department, Summer Session A6, 2024
 
-Mondays, Wednesdays 3:15PM – 5:30PM
+Mondays, Wednesdays 3:15PM – 5:20PM
 
 Online via Zoom
 
