@@ -1,6 +1,6 @@
 # Help
 
-If you run into any issues, please check the guides below first. Then feel free to ask on [Discord :simple-discord:](https://discord.gg/awktuEcAqW) or the [GitHub discussion forums :material-github:](https://github.com/albertkun/23S-ASIAAM-191A/discussions/categories/help-desk).
+If you run into any issues, please check the guides below first. Then feel free to ask on [Discord :simple-discord:](https://discord.gg/59BQrnFbhq) or the [GitHub discussion forums :material-github:](https://github.com/albertkun/24SU-ASIAAM-191A/discussions/categories/help-desk).
 
 You can always contact me below if you have questions.
 
@@ -10,12 +10,13 @@ Albert S. Kochaphum (albertkun@ucla.edu)
 
 ### Office Hours
 
-Tuesdays and Thursdays 3:15pm – 4pm in Public Affairs 2400A and online by appointment below:
+Monday and Wednesdays 5:15pm – 6pm online by appointment below:
 
 - https://calendly.com/aa191a/office-hours
 
 
 ## List of class How-To guides
+
 Below are step-by-step guides on getting started with the course. 
 
 ### Course Related
