@@ -168,8 +168,6 @@ another. Finally, I expect you to hold yourself to the highest standards
 for academic honesty and integrity in your work.
 
 ## **Course Outline**
-
-## **Course Outline**
 ### Preparation:
 - Fill out the [pre-course survey](https://forms.gle/nifb6shCtFvEftZY7)
 - Download and install [VS Code](https://code.visualstudio.com/)

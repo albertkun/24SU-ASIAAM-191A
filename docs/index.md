@@ -1,9 +1,9 @@
 # Home
 
-[![Discord](https://img.shields.io/discord/1075907593698017333?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/59BQrnFbhq) 
+[![Discord](https://img.shields.io/badge/Discord-Chat-blue.svg?logo=discord&logoColor=white)](https://discord.gg/59BQrnFbhq)
 [![Deploy Documentation](https://github.com/albertkun/24SU-ASIAAM-191A/actions/workflows/main.yml/badge.svg)](https://github.com/albertkun/24Su-ASIAAM-191A/actions/workflows/main.yml)
 
-Welcome to the course website where you can find all the material for Asian American Studies 191A. Remember to use the [Discord :simple-discord:](https://discord.gg/59BQrnFbhq), [GitHub discussion board :material-github:](https://github.com/albertkun/24Su-ASIAAM-191A/discussions/), [email :material-email:](mailto:albertkun@oarc.ucla.edu), or utilize [office hours](https://albertkun.github.io/24Su-ASIAAM-191A/syllabus/#office-hours) if you have any questions!
+Welcome to the course website where you can find all the material for Asian American Studies 191A. Remember to use the [Discord :simple-discord:](https://discord.gg/59BQrnFbhq), [GitHub discussion board :material-github:](https://github.com/albertkun/24SU-ASIAAM-191A/discussions/), [email :material-email:](mailto:albertkun@oarc.ucla.edu), or utilize [office hours](https://albertkun.github.io/24SU-ASIAAM-191A/syllabus/#office-hours) if you have any questions!
 
 ## Class Links
 
