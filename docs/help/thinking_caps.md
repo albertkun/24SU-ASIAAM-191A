@@ -6,7 +6,7 @@
     Due at 2pm PST on Mondays, but to be eligible for extra credit you must submit at **2pm PST on Sundays**.
 
 1. Make sure you are signed into your GitHub account. ![./media/thinkingcap0.png](media/thinkingcap0.png)
-2. Go to the [course website](https://albertkun.github.io/23S-ASIAAM-191A/)
+2. Go to the [course website](https://albertkun.github.io/24SU-ASIAAM-191A/)
 3. Click on "**Discussions**" ![./media/thinkingcap1.png](media/thinkingcap1.png)
 4. Click on the "**Thinking Cap**" you are posting for ![./media/thinkingcap3.png](media/thinkingcap3.png)
 5. Scroll down to find the comment box: ![./media/thinkingcap4.png](media/thinkingcap4.png)

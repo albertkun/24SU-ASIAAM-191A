@@ -30,8 +30,8 @@
 
 ![](media/git_clone7.png){: style="max-width:500px"}
 
-1.  Search for the class repository by typing `23S-191A-AsianAm` and
-    then select the repository: **albertkun/23S-ASIAAM-191A**
+1.  Search for the class repository by typing `24SU-191A-AsianAm` and
+    then select the repository: **albertkun/24SU-ASIAAM-191A**
 
 ![](media/git_clone8.png){: style="max-width:700px"}
 

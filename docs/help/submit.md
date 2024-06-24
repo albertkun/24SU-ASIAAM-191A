@@ -8,7 +8,7 @@
     Please refer to [lab #1](../../labs/week1/5/) if you have not done these steps yet.
 
 ## Go to the Discussion board
-[https://github.com/albertkun/23S-ASIAAM-191A/discussions/](https://github.com/albertkun/23S-ASIAAM-191A/discussions/){target="_blank"}
+[https://github.com/albertkun/24SU-ASIAAM-191A/discussions/](https://github.com/albertkun/24SU-ASIAAM-191A/discussions/){target="_blank"}
 ## Click on the assignment you are submitting
 
 ![](./media/submit1.png)
