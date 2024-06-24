@@ -17,7 +17,8 @@ Online via Zoom
 ### Instructor
 Albert S. Kochaphum (albertkun@oarc.ucla.edu)
 ### Office Hours
-Tuesdays, Thursdays 3:15pm – 4pm online and by appointment below:
+
+By appointment below:
 
 - https://calendly.com/aa191a/office-hours
 
