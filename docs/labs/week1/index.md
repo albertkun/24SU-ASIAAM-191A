@@ -7,14 +7,16 @@ tags:
 # GITting down with labs and code
 
 ![](././media/hello_world.png){: style="max-width:300px"}
+
 ## Objectives
 
 !!! tldr "Goals"
     - Create a basic webpage
+    - Add a map with markers
     - Publish your page onto GitHub pages
 
-!!! caution "Reminder"
-    The [pre-lab](../../assignments/week1/prelab) must completed before attempting this lab.
+!!! important "Reminder"
+	The [pre-lab](../../assignments/week1/prelab) must be completed before attempting this lab.
 
 
 ### Lab outline
@@ -22,10 +24,9 @@ tags:
 1. [Using VS Code](./0.md)
 2. [Writing HTML](./1.md)
 3. [Writing CSS](./2.md)
-4. [Publishing with GitHub Pages](./3.md)
+4. [Adding a Map](./3.md)
+5. [Publishing with GitHub Pages](./4.md)
 
 This lab will walk you through the process of creating a static web page in HTML with some additional style elements using CSS. Then you will be tasked to host it using GitHub pages.
  
-For the extra lab (and extra credit), you can add a map using the [Leaflet JS library](https://www.leafletjs.com/), but we will cover that in Lab #2.
-
->Note: I highly recommend checking out the [Leaflet documentation](https://leafletjs.com/reference.html). Looking at any documentation before choosing any software is important, because badly documented libraries can make tools difficult to use. 
+>Note: I highly recommend checking out the [MapLibreGL documentation](https://maplibre.org/maplibre-gl-js/docs/). Looking at any documentation before choosing any software is important, because badly documented libraries can make tools difficult to use. 
