@@ -2,8 +2,8 @@
 
 Date|Type|Description|Slides|Recording|
 |---|----|-----------|------|---------|
-|4/4|Lecture|Introducing the course, GIS, data, and ethics|TBD|TBD|
-|4/6|Lab|[GITting Used to Web Development and JavaScript](../labs/week1/index.md)|TBD|TBD|
+|6/24|Lecture|Introducing the course, GIS, data, and ethics|TBD|TBD|
+|6/26|Lab|[GITting Used to Web Development and JavaScript](../labs/week1/index.md)|TBD|TBD|
 
 ## Lecture
 

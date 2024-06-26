@@ -26,6 +26,8 @@ tags:
 3. [Writing CSS](./2.md)
 4. [Adding a Map](./3.md)
 5. [Publishing with GitHub Pages](./4.md)
+6. [Final Lab Code](./5.md)
+   
 
 This lab will walk you through the process of creating a static web page in HTML with some additional style elements using CSS. Then you will be tasked to host it using GitHub pages.
  
