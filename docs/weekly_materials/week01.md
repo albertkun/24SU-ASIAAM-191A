@@ -2,7 +2,7 @@
 
 Date|Type|Description|Slides|Recording|
 |---|----|-----------|------|---------|
-|6/24|Lecture|Introducing the course, GIS, data, and ethics|TBD|TBD|
+|6/24|Lecture|Introducing the course, GIS, data, and ethics|[Here](../materials/AA191_S_W1_Lecture_1.pdf)|[Here](https://ucla.zoom.us/rec/share/TV69qIft5rKJmABxoKu2kWGD6mHFkBU7ppcQtyK6zHjftBn0uhHF9mJ10CBDCoAj.30gAp3rFCUQxYxLq)
 |6/26|Lab|[GITting Used to Web Development and JavaScript](../labs/week1/index.md)|TBD|TBD|
 
 ## Lecture
@@ -11,8 +11,7 @@ Charting the course for the class and how it relates to GIS, data, and ethics.
 
 - ### Introducing the course, GIS, data, and ethics
 
-Lecture 1 Slides - TBD
-
+[Lecture 1 Slides](../materials/AA191_S_W1_Lecture_1.pdf)
 ## Lab
 
 Learning how to use GitHub, VSCode, and some JavaScript.
