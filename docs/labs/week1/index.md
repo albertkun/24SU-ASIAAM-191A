@@ -15,7 +15,7 @@ tags:
     - Add a map with markers
     - Publish your page onto GitHub pages
 
-!!! important "Reminder"
+!!! warning "Reminder"
 	The [pre-lab](../../assignments/week1/prelab) must be completed before attempting this lab.
 
 
