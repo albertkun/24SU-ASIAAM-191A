@@ -1364,9 +1364,9 @@
 </li>
       
         <li class="md-nav__item">
-  <a href="#styling-popups" class="md-nav__link">
+  <a href="#optional-styling-popups" class="md-nav__link">
     <span class="md-ellipsis">
-      Styling Popups
+      Optional: Styling Popups
     </span>
   </a>
   
@@ -1809,9 +1809,9 @@
 </li>
       
         <li class="md-nav__item">
-  <a href="#styling-popups" class="md-nav__link">
+  <a href="#optional-styling-popups" class="md-nav__link">
     <span class="md-ellipsis">
-      Styling Popups
+      Optional: Styling Popups
     </span>
   </a>
   
@@ -1879,10 +1879,12 @@
 <li><strong>OpenStreetMap</strong>: Right-click on the location and select &ldquo;Show address&rdquo; to get the coordinates. <a href="https://www.openstreetmap.org">OpenStreetMap</a></li>
 <li><strong>Get Lat Long</strong>: Enter the address to get the coordinates. <a href="https://www.latlong.net/">GetLatLong</a></li>
 </ul>
-<h3 id="what-is-a-coordinate">What is a coordinate?<a class="headerlink" href="#what-is-a-coordinate" title="Permanent link">&para;</a></h3>
-<p>A coordinate is a set of numbers that specifies the location of a point on the Earth&rsquo;s surface. Coordinates are usually given in latitude and longitude, which are measured in degrees. Latitude specifies the north-south position, while longitude specifies the east-west position.</p>
+<div class="admonition info">
+<p class="admonition-title">What is a geographic coordinate?</p>
+<p>A coordinate is a set of numbers that specifies the location of a point on the Earth&rsquo;s surface. Coordinates are usually given in <strong>latitude</strong> and <strong>longitude</strong>, which are measured in degrees. Latitude specifies the north-south position, while longitude specifies the east-west position.</p>
 <p>One way to remember the difference between <strong>latitude</strong> and <strong>longitude</strong> is to think of the alphabet. <strong>Latitude</strong> comes <strong>first</strong>, just like the letter &ldquo;A,&rdquo; and it specifies the north-south position. <strong>Longitude</strong> comes <strong>second</strong>, just like the letter &ldquo;B,&rdquo; and it specifies the east-west position.</p>
 <p>My personal way to remember the difference is that <strong>latitude</strong> goes north to south like <strong>altitude</strong> goes up and down, while <strong>longitude</strong> goes east to west like <strong>long</strong> things going across left to right.</p>
+</div>
 <div class="admonition warning">
 <p class="admonition-title">Reversed Coordinates</p>
 <p>In MapLibreGL, the order of coordinates is <code>[lng, lat]</code>, which is the opposite of the usual <code>[lat, lng]</code> order. Make sure to use the correct order when adding markers to your map.</p>
@@ -1905,7 +1907,7 @@
 </span></code></pre></div>
 </details>
 
-<h2 id="styling-popups">Styling Popups<a class="headerlink" href="#styling-popups" title="Permanent link">&para;</a></h2>
+<h2 id="optional-styling-popups">Optional: Styling Popups<a class="headerlink" href="#optional-styling-popups" title="Permanent link">&para;</a></h2>
 <p>Remember you can add popups to your markers in MapLibreGL using the following code snippet:</p>
 <div class="language-js highlight"><pre><span></span><code><span id="__span-2-1"><a id="__codelineno-2-1" name="__codelineno-2-1" href="#__codelineno-2-1"></a><span class="c1">// Add a marker to the map</span>
 </span><span id="__span-2-2"><a id="__codelineno-2-2" name="__codelineno-2-2" href="#__codelineno-2-2"></a><span class="kd">const</span><span class="w"> </span><span class="nx">marker</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="ow">new</span><span class="w"> </span><span class="nx">maplibregl</span><span class="p">.</span><span class="nx">Marker</span><span class="p">()</span>
