@@ -13,7 +13,6 @@ tags:
 |[**Map and Portfolio**](./week1/lab_assignment.md)|Lab Assignment|Wednesday 7/3|
 |[**Repository and Readme**](./week1/group_assignment.md)|Group Assignment|Wednesday 7/3|
 
-
 ## Past Assignments
 
 |Assignment|Type|Due|

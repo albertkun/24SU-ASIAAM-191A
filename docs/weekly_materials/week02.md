@@ -3,8 +3,8 @@
 Date|Type|Description|Slides|Recording|
 |---|----|-----------|------|---------|
 |7/1|Critical Cartography and Civil Society|Lecture|TBD|TBD
-|7/1|[MapLibRevisiting your portfolios](../labs/week2/lab1more.md)|Lab|TBD|TBD
-|7/3|[JavaScript Returns: An Action-Packed, FUNction-Filled Adventure]|Lab|TBD|TBD
+|7/1|[MapLibRevisiting your portfolios](../labs/week2/lab1more.md)|Lab|
+|7/3|JavaScript Returns: An Action-Packed, FUNction-Filled Adventure|Lab|TBD|TBD
 
 ## Lecture
 

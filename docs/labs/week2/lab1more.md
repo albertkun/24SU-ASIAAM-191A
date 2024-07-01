@@ -11,7 +11,7 @@
 
 ## Outline
 
-1. [The API KEY to BaseMaps](./m0.md)
+1. [The (API) KEY to BaseMaps](./m0.md)
 2. [Adding Markers and styling Popups](./m1.md)
 3. [Styling your portfolio](./m2.md)
 4. [Final Lab Code](./m3.md)
