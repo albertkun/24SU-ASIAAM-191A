@@ -1,4 +1,6 @@
-# MapLibRevisiting your portfolios
+# MapLibRevisiting Portfolios
+
+![](././media/1moregoal.png){: style="max-width:300px"}
 
 ## Objectives
 
