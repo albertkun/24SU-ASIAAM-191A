@@ -8,14 +8,17 @@ Date|Type|Description|Slides|Recording|
 ## Lecture
 
 - Critical Cartography and Civil Society
- 
+
+- [Discussion #1 - Document](https://docs.google.com/document/d/1tXo4IxvNluae4v56ofPdzpmuhVLnJGOVSp8BGAzvOgE/copy)
+- [Discussion #1 - Submission](https://docs.google.com/spreadsheets/d/1z8Wi2X4Qu1pp10-ArU6qgb9aINBtdKnSybHFJvTTRwE/edit?gid=195406028#gid=195406028)
+
+
+
 ### Visiting Voice: Mariah Tso (7/3)
 ![../media/mariahtso.jpg](../media/mariahtso.jpg)
 
 Mariah Tso is a Diné woman, artist, and GIS Specialist for the [Ralph J. Bunche Center](https://bunchecenter.ucla.edu/) and the [Million Dollar Hoods Project](https://milliondollarhoods.pre.ss.ucla.edu/).
 
-- [Discussion #1 - Document](https://docs.google.com/document/d/1kFfSY3FOYjmkDQwF0iWhwwaa4aODrNtHL1MXd_gLFwY/copy)
-- [Discussion #1 - Submission](https://docs.google.com/spreadsheets/d/1ZAr9Hd9fmtevEGRadA_a4xl-AoXM8eZJ3VQFygXnT5o/edit#gid=1823767792)
 
 ## Lab
 
@@ -38,10 +41,10 @@ Mariah Tso is a Diné woman, artist, and GIS Specialist for the [Ralph J. Bunche
 ### Due Monday 7/8
 
 - [**Whose map? Who is empowered and who is disempowered?**](../assignments/week2/reading.md)
-- [Thinking Cap #2](https://github.com/albertkun/24SU-ASIAAM-191A/discussions/10)
+- [Thinking Cap #2](https://github.com/albertkun/24SU-ASIAAM-191A/discussions/32)
 
-### Due Wednesday 7/10
+<!-- ### Due Wednesday 7/10 -->
 
-- [Lab Assignment #2](../assignments/week2/lab_assignment.md)
+<!-- - [Lab Assignment #2](../assignments/week2/lab_assignment.md)
 - [Optional: Pre-lab](../assignments/week3/prelab.md)
-- [Group Assignment #2](../assignments/week2/group_assignment.md)
+- [Group Assignment #2](../assignments/week2/group_assignment.md) -->
