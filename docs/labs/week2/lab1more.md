@@ -133,4 +133,4 @@ footer {
 }
 ```
 
-![](././media/rick.jpg){: style="max-width:300px"}
+![](././media/me.jpg){: style="max-width:300px"}
