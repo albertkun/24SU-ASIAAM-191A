@@ -5,6 +5,8 @@
 
 ## Due 7/3
 
+0. As a group **check-in** with me before 7/3 by making an appointment here: https://calendly.com/aa191a/office-hours or emailing me directly (albertkun@oarc.ucla.edu). 
+
 1. Have one person create a new repo for the group and invite everyone as collaborators.
    
    - [Guide on how to create a new repo and invite](../../help/git_creating.md)
@@ -23,6 +25,8 @@
 3. Post your group members and repository on the discussion board:
 
     - [https://github.com/albertkun/24SU-ASIAAM-191A/discussions/27](https://github.com/albertkun/24SU-ASIAAM-191A/discussions/27)
+
+
 
 #### **Extra Credit**
 

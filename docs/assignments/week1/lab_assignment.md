@@ -1,4 +1,4 @@
-# Lab Assignment #1 - Portfolio:
+# Lab Assignment #1 - Map and Portfolio
 
 ### Due 7/3
 Time to put your skills to the test and create a home page for the individual maps that you will be making this quarter. Describe some of your interests and include a map with some markers. This is your portfolio, so feel free toadd anything. If you made multiple HTML pages, please link them all to the `index.html` using the `<a href=""></a>` tag>.
@@ -19,7 +19,7 @@ Your portfolio must contain the following:
 ### Extra Credit: (any of these) 
    - Add another link to your own completely different HTML page not `index.html`. (Be sure to link it to your `index.html` and describe what you are showing)
    - Add another use of Maplibre 
-   - Check out the [Extra](extra.md) or [Maplibre documentation](https://maplibre.org/maplibre-gl-js/docs/examples/) and try something there.
+   - Check out the [Extra](../../labs/week1/extra.md) or [Maplibre documentation](https://maplibre.org/maplibre-gl-js/docs/examples/) and try something there.
 
 ###  Submission: 
 
@@ -30,7 +30,9 @@ Your portfolio must contain the following:
 
 - Paste your link as a comment in the [Discussion forum for Lab Assignment #1](https://github.com/albertkun/24SU-ASIAAM-191A/discussions/26)
 
-### HTML Resources
+### Extra Resources
+
+#### HTML
 
 - Short MDN HTML Syntax (good recap): 
 https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Getting_started
@@ -38,19 +40,21 @@ https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Getting
 - Long overview and explanation of HTML:
 https://geobgu.xyz/web-mapping2/html.html
 
+#### CSS
 
-### CSS Grid Resources
+- Learn Layout:
+  - https://learnlayout.com
 
+#### CSS GRID
 - CSS Grid Garden (game to familiarize yourself with CSS grid):
   - https://cssgridgarden.com/
 
 - CSS Tricks:
   - https://css-tricks.com/snippets/css/complete-guide-grid/
 
-### JavaScript Resources
+
+#### JavaScript
 
 - JavaScript for Cats:
   - http://jsforcats.com/
 
-- Eloquent JavaScript:
-  - https://eloquentjavascript.net/
