@@ -3,7 +3,7 @@ nav:
     - prelab.md
     - reading.md
     - thinking_cap.md
-    - lab_assignment.md
+#    - lab_assignment.md
     - ...
 
 title: Week 2

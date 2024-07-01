@@ -19,4 +19,4 @@ Below is the list of all assignments assigned at the start of week 1.
 [**An Introduction to Critical Cartography**](reading.md) [[PDF]](../../materials/readings/An_Introduction_to_Critical_Cartography.pdf)|Weekly Reading|Monday 7/1|
 |[**Map and Portfolio**](lab_assignment.md)|Lab Assignment|Wednesday 7/3|
 |[**Repository and Readme**](group_assignment.md)|Group Assignment|Wednesday 7/3|
-<!-- |[**Intro to Web Maps**](../week2/pre_lab_2.md)|Pre-lab|Wednesday 4/13|
+|[**Intro to Web Maps**](../week2/pre_lab.md)|Pre-lab|Wednesday 7/3|
