@@ -11,7 +11,5 @@ Description|Link
 --|--
 Discord Server|[Invite Link](https://discord.gg/BKwVPNsdac)
 Online Office Hours|[https://calendly.com/aa191a/office-hours](https://calendly.com/aa191a/office-hours)
-
 Group Project Sheet|[https://docs.google.com/spreadsheets/d/1z8Wi2X4Qu1pp10-ArU6qgb9aINBtdKnSybHFJvTTRwE/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1z8Wi2X4Qu1pp10-ArU6qgb9aINBtdKnSybHFJvTTRwE/edit?usp=sharing)
 GitHub Discussions|[https://github.com/albertkun/24SU-ASIAAM-191A/discussions](https://github.com/albertkun/24SU-ASIAAM-191A/discussions)
-<!-- Anonymous Feedback| [https://docs.google.com/spreadsheets/d/1ZAr9Hd9fmtevEGRadA_a4xl-AoXM8eZJ3VQFygXnT5o/edit#gid=0](https://docs.google.com/spreadsheets/d/1ZAr9Hd9fmtevEGRadA_a4xl-AoXM8eZJ3VQFygXnT5o/edit#gid=0) -->
