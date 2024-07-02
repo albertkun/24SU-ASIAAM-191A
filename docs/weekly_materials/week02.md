@@ -2,7 +2,7 @@
 
 Date|Type|Description|Slides|Recording|
 |---|----|-----------|------|---------|
-|7/1|Critical Cartography and Civil Society|Lecture|TBD|TBD
+|7/1|Critical Cartography and Civil Society|Lecture|[Here](../materials/AA191_S_W2_Lecture_2.pdf)|[Here](https://ucla.zoom.us/rec/share/yDSPnMa0DrP-aBh7fUtCwfVQvG3joa-lk2VuS_u985XuTYUKCUgfN9VBVPII1TP8.JFOlATOhK0whrXgo) 
 |7/1|[MapLibRevisiting your portfolios](../labs/week2/lab1more.md)|Lab|
 |7/3|JavaScript Returns: An Action-Packed, FUNction-Filled Adventure|Lab|TBD|TBD
 
