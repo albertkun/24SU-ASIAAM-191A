@@ -10,7 +10,7 @@ tags:
 |-----------|----|---|
 |[**Map and Portfolio**](./week1/lab_assignment.md)|Lab Assignment|Wednesday 7/3|
 |[**Repository and Readme**](./week1/group_assignment.md)|Group Assignment|Wednesday 7/3|
-|[**Intro to Web Maps**](./prelab.md)|Pre-lab|Wednesday 7/3|
+|[**Intro to Web Maps**](./week2/prelab.md)|Pre-lab|Wednesday 7/3|
 |[**Whose map? Who is empowered and who is disempowered?**](./week2/reading.md)|Weekly Reading|Monday 7/8|
 |[**How can we improve Critical Cartography?**](./week2/thinking_cap.md)|Thinking Cap|Monday 7/8|
 
