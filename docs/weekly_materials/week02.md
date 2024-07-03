@@ -3,8 +3,8 @@
 Date|Type|Description|Slides|Recording|
 |---|----|-----------|------|---------|
 |7/1|Critical Cartography and Civil Society|Lecture|[Here](../materials/AA191_S_W2_Lecture_2.pdf)|[Here](https://ucla.zoom.us/rec/share/yDSPnMa0DrP-aBh7fUtCwfVQvG3joa-lk2VuS_u985XuTYUKCUgfN9VBVPII1TP8.JFOlATOhK0whrXgo) 
-|7/1|[MapLibRevisiting your portfolios](../labs/week2/lab1more.md)|Lab|
-|7/3|JavaScript Returns: An Action-Packed, FUNction-Filled Adventure|Lab|TBD|TBD
+|7/1|[MapLibRevisiting your portfolios](../labs/week1b/index.md)|Lab|
+|7/3|[JavaScript Writing some FUNctions](../labs/week2/index.md)|Lab|TBD|TBD
 
 ## Lecture
 
@@ -23,8 +23,8 @@ Mariah Tso is a Diné woman, artist, and GIS Specialist for the [Ralph J. Bunche
 
 ## Lab
 
-- [MapLibRevisiting your portfolios](../labs/week2/lab1more.md)
-- JavaScript Returns: An Action-Packed, FUNction-Filled Adventure
+- [MapLibRevisiting your portfolios](../labs/week1b/index.md)
+- [JavaScript Writing some FUNctions](../labs/week2/index.md)
 
 ## Assignments
 
@@ -44,8 +44,8 @@ Mariah Tso is a Diné woman, artist, and GIS Specialist for the [Ralph J. Bunche
 - [**Whose map? Who is empowered and who is disempowered?**](../assignments/week2/reading.md)
 - [Thinking Cap #2](https://github.com/albertkun/24SU-ASIAAM-191A/discussions/32)
 
-<!-- ### Due Wednesday 7/10 -->
+### Due Wednesday 7/10
 
-<!-- - [Lab Assignment #2](../assignments/week2/lab_assignment.md)
-- [Optional: Pre-lab](../assignments/week3/prelab.md)
-- [Group Assignment #2](../assignments/week2/group_assignment.md) -->
+- [Lab Assignment #2](../assignments/week2/lab_assignment.md)
+- [Group Assignment #2](../assignments/week2/group_assignment.md)
+<!-- - [Optional: Pre-lab](../assignments/week3/prelab.md) -->
