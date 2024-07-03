@@ -1,4 +1,27 @@
-# ✅ Final Template Code
+---
+hide:
+  - tags
+tags:
+  - Lab 2
+---
+# JavaScript Writing some FUNctions
+
+Creating our first map with [MapLibre GL](https://maplibre.org/maplibre-gl-js/docs/) learning to use JavaScript!
+
+![](./media/intro.png){: style="max-width:300px"}
+
+!!! tldr "Goals"
+    - Understand how JavaScript works with HTML and CSS
+    - Understand how JavaScript variables, functions, methods work together
+
+## Lab outline
+
+1. [JavaScript Functions](./1.md)
+2. [Adding Event Listeners](./2.md)
+
+## Starting Template Code for lab #2
+
+Use the following template code or your lab assignment #1:
 
 ```html title="index.html" linenums="1"
 <!DOCTYPE html>
@@ -125,8 +148,4 @@ main {
 	text-align: center; /* Centers the footer content */
 }
 
-/* nice solution for adding a padding for the bullet points! */
-/* ol {
-    padding-left: 30px;
-} */
 ```

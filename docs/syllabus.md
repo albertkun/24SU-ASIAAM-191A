@@ -15,7 +15,7 @@ Mondays, Wednesdays 3:15PM – 5:20PM
 Online via Zoom
 
 ### Instructor
-Albert S. Kochaphum (albertkun@oarc.ucla.edu)
+Albert S. Kochaphum (albertk@asianam.ucla.edu)
 ### Office Hours
 
 By appointment below:
