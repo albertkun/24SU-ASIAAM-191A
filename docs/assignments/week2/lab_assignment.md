@@ -11,11 +11,13 @@ The requirements are:
 - Add an [Event Listener](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Events#what_is_an_event) that executes the JavaScript function to interact with your map
 - Markers should have popups that describe what the point is.
 
+
 ### Extra Credit
 
 - Use something else like images or text to move the map.
 - Style the buttons or markers
 - Try something new with the [MapLibre API](https://maplibre.org/maplibre-gl-js/docs/examples/).
+- Add a geojson to your map
 
 ## Submission
 
