@@ -75,7 +75,7 @@ Copy the file into your project folder:
 
 ![](./media/geojson15.png)
 
-### ⚽In-class Exercise #1 - Leaving  your mark(er) on the map!
+### ⚽In-class Exercise #3 - Leaving your mark(er) on the map!
 
 Go back and add more points to your GeoJSON file.
 
@@ -85,56 +85,37 @@ Go back and add more points to your GeoJSON file.
 
 After finishing the exercise, think about how empowering it was for you to be able to add data to the map yourselves. Whether you were clicking random spots or trying to find your old favorite places to visit, the ability to mark things is a reclaiming of mapping for yourself. This sense of staking a claim is what is meant when we refer to "empowering community voices".
 
-## 🏁Checkpoint - Add your GeoJSON to your map
+## 🏁Final Checkpoint - Add your GeoJSON to your map
 
 1. Make sure your GeoJSON file is in your `week2` folder!
 
-2. Take note of the filename!
+2. Take note of the filename! (typically it is called `map.geojson`)
 
 3. Modify your `js/init.js` file to add the GeoJSON file to your map:
 
-```js title="js/init.js" linenums="1"
-// Initialize the map
-const map = new maplibregl.Map({
-    container: 'map', // container ID
-    style: 'https://api.maptiler.com/maps/streets-v2-light/style.json?key=wsyYBQjqRwKnNsZrtci1', // Your style URL
-    center: [-118.4430,34.0691], // Starting position [lng, lat]
-    zoom: 15 // Starting zoom level
-});
+!!! warning "Warning"
+    Make sure to replace `NAME_OF_YOUR_GEOJSON.geojson` with the name of your GeoJSON file!
 
-function addMarker(lat,lng,title,message){
-	let popup_message = `<h2>${title}</h2> <h3>${message}</h3>`
-	new maplibregl.Marker()
-		.setLngLat([lng, lat])
-		.setPopup(new maplibregl.Popup().setHTML(popup_message))
-		.addTo(map)
-
-	return message
-}
-
-addMarker(34.070,-118.444, "UCLA", "Where I work on campus")
-addMarker(34.056,-118.234, "Metro", "Where I work at Metro")
-addMarker(34.056,-118.234, "Games", "Where I work at games")
-
-fetch('map.geojson').then(
-	response => response.json()
+```js title="js/init.js"
+fetch('NAME_OF_YOUR_GEOJSON.geojson').then(
+    response => response.json()
 ).then(
-	data => {
-		map.addSource('places', {
-			'type': 'geojson',
-			'data': data
-		});
-		map.addLayer({
-			'id': 'places',
-			'type': 'circle',
-			'source': 'places',
-			'paint': {
-				'circle-color': '#4264fb',
-				'circle-radius': 6,
-				'circle-stroke-width': 2,
-				'circle-stroke-color': '#ffffff'
-			}
-		});
-	}
+    data => {
+        map.addSource('places', {
+            'type': 'geojson',
+            'data': data
+        });
+        map.addLayer({
+            'id': 'places',
+            'type': 'circle',
+            'source': 'places',
+            'paint': {
+                'circle-color': '#4264fb',
+                'circle-radius': 6,
+                'circle-stroke-width': 2,
+                'circle-stroke-color': '#ffffff'
+            }
+        });
+    }
 );
 ```
