@@ -6,7 +6,7 @@ You can always contact me below if you have questions.
 
 ## Instructor Contact
 
-Albert S. Kochaphum (albertkun@ucla.edu)
+Albert S. Kochaphum (albertk@asianam.ucla.edu)
 
 ### Office Hours
 
