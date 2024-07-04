@@ -4,7 +4,7 @@ Date|Type|Description|Slides|Recording|
 |---|----|-----------|------|---------|
 |7/1|Critical Cartography and Civil Society|Lecture|[Here](../materials/AA191_S_W2_Lecture_2.pdf)|[Here](https://ucla.zoom.us/rec/share/yDSPnMa0DrP-aBh7fUtCwfVQvG3joa-lk2VuS_u985XuTYUKCUgfN9VBVPII1TP8.JFOlATOhK0whrXgo) 
 |7/1|[MapLibRevisiting your portfolios](../labs/week1b/index.md)|Lab|
-|7/3|[JavaScript Writing some FUNctions](../labs/week2/index.md)|Lab|TBD|TBD
+|7/3|[JavaScript Writing some FUNctions](../labs/week2/index.md)|Lab|[Here](../materials/AA191_S_W2_Lab_2.pdf)|[Here](https://ucla.zoom.us/rec/share/8IMfEsCA9Z_BN1nsuntdmxr-BP9_pktuAwHIyIQQD583rn_WiZyaw-8f3F6S_W92.7wTnMYxLniD4rXi-)
 
 ## Lecture
 

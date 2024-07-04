@@ -17,7 +17,6 @@ The requirements are:
 - Use something else like images or text to move the map.
 - Style the buttons or markers
 - Try something new with the [MapLibre API](https://maplibre.org/maplibre-gl-js/docs/examples/).
-- Add a geojson to your map
 
 ## Submission
 
