@@ -1,4 +1,4 @@
-# Week 3 - Open Source and Web Mapping
+# Week 3 - Society, Technology, and Ethics
 
 Date|Type|Description|Slides|Recording|
 |---|----|-----------|------|---------|
