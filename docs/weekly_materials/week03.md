@@ -25,7 +25,6 @@ Yoh Kawano is a digital humanist and associate professor at [Reitaku University 
 
 - [Lab Assignment #2](../assignments/week2/lab_assignment.md)
   - [Submit using the discussion post](../help/submit.md)!!
-- [Optional: Pre-lab Reading](../assignments/week3/prelab.md)
 
 ### Due Monday 7/15
 
