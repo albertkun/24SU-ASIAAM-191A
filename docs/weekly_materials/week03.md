@@ -5,21 +5,19 @@ Date|Type|Description|Slides|Recording|
 |7/8|Connecting the dots of technology and ethics|Lecture|TBD|TBD|
 |7/10|For-loops and Geo-J-cieON|Lab|TBD|TBD|
 
+## Lecture
+
+- Connecting the dots of technology and ethics
+
 ### Visiting Voice: Yoh Kawano
 
 ![../media/yohkawano.jpg](../media/yohkawano.jpg){: style="max-width:350px"}
 
 Yoh Kawano is a digital humanist and associate professor at [Reitaku University Japan](https://www.reitaku-u.ac.jp/about/teachers/1776447/)(Japanese). His community empowerment is on narratives in Japan’s Fukushima prefecture following the 2011 Tsunami.
 
-## Lecture
-
-- Connecting the dots of technology and ethics
-
-
 ## Lab
 
 - For-loops and Geo-J-cieON
-
 
 ## Assignments
 
