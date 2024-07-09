@@ -2,7 +2,7 @@
 
 Date|Type|Description|Slides|Recording|
 |---|----|-----------|------|---------|
-|7/8|Connecting the dots of technology and ethics|Lecture|TBD|TBD|
+|7/8|Connecting the dots of technology and ethics|Lecture|[Here](../materials/AA191_S_W3_Lecture_3.pdf|[Here](https://ucla.zoom.us/rec/share/spkrBdRJbvpPsZx3MA9riP_kSEt82ujcT5iH5CopEUvGbKFcvqGsmAsk6xZTvh4m.Ar0NqtkRHuxe1Q3o)|
 |7/10|For-loops and Geo-J-cieON|Lab|TBD|TBD|
 
 ## Lecture
