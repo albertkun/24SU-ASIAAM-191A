@@ -8,17 +8,20 @@ tags:
 
 |Assignment|Type|Due|
 |-----------|----|---|
-|[**Functional Events**](./week2/lab_assignment.md)|Lab|Wednesday 7/10|
 |[**Project Memo**](./week2/group_assignment.md)|Group Assignment|Wednesday 7/10|
-|[**Whose map? Who is empowered and who is disempowered?**](./week2/reading.md)|Weekly Reading|Monday 7/8|
 |[**Technology and Ethics**](./week3/reading.md)|Reading|Monday 7/15|
 |[**Your ethical views**](./week3/thinking_cap.md)|Thinking Cap|Monday 7/15|
+|[**GeoJSONs and Loops**](./week3/lab_assignment.md)|Lab Assignment|Wednesday 7/17|
+|[**Pre-lab on Survey Design**](./week4/prelab.md)|Pre-lab|Wednesday 7/17|
+|[**Survey & Revision of Memo**](./week3/group_assignment.md)|Group Assignment|Wednesday 7/17|
 
 
 ## Past Assignments
 
 |Assignment|Type|Due|
 |-----------|----|---|
+|[**Whose map? Who is empowered and who is disempowered?**](./week2/reading.md)|Weekly Reading|Monday 7/8|
+|[**Functional Events**](./week2/lab_assignment.md)|Lab|Wednesday 7/10|
 |[**Pre-lab: Intro to Web Dev**](./week1/prelab.md)|Pre-lab|Wednesday 6/26|
 |[**Pre-course Survey**](week0.md)|Survey|Monday 6/24|
 |[**What are problems with the way we use data and GIS?**](./thinking_cap.md)|Thinking Cap|Monday 7/1|
