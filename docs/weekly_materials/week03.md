@@ -17,7 +17,7 @@ Yoh Kawano is a digital humanist and associate professor at [Reitaku University 
 
 ## Lab
 
-- For-loops and Geo-J-cieON
+- [For-loops and Geo-J-cieON](../labs/week3/index.md)
 
 ## Assignments
 
@@ -33,4 +33,4 @@ Yoh Kawano is a digital humanist and associate professor at [Reitaku University 
 ### Due Wednesday 7/17
 
 - [Group Assignment #2](../assignments/week2/group_assignment.md)
-- Lab Assignment #3
+- [Lab Assignment #3](../assignments/week3/lab_assignment.md)
