@@ -3,7 +3,7 @@
 Date|Type|Description|Slides|Recording|
 |---|----|-----------|------|---------|
 |7/8|Connecting the dots of technology and ethics|Lecture|[Here](../materials/AA191_S_W3_Lecture_3.pdf)|[Here](https://ucla.zoom.us/rec/share/spkrBdRJbvpPsZx3MA9riP_kSEt82ujcT5iH5CopEUvGbKFcvqGsmAsk6xZTvh4m.Ar0NqtkRHuxe1Q3o)|
-|7/10|For-loops and Geo-J-cieON|Lab|(../materials//materials/AA191_S_W3_Lab_3.pdf)|[Here](https://ucla.zoom.us/rec/share/BJFW9f5FejtHmfVDjka_hQ5rPPOEqdjgx3xEsY5P2-j6YBUGjrt4wFELoUF2Ud7Z.oF34elNLkQUIfe9I)|
+|7/10|For-loops and Geo-J-cieON|Lab|[Here](../materials//materials/AA191_S_W3_Lab_3.pdf)|[Here](https://ucla.zoom.us/rec/share/BJFW9f5FejtHmfVDjka_hQ5rPPOEqdjgx3xEsY5P2-j6YBUGjrt4wFELoUF2Ud7Z.oF34elNLkQUIfe9I)|
 
 ## Lecture
 

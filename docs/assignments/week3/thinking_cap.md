@@ -7,7 +7,7 @@
 
 Reflect on the relationship between science, technology, and ethics covered on the lecture and reading.
 
-This weeks [readings](reading.md) will be helpful in forumlating a response.
+This weeks [readings](reading.md) will be helpful in formlating a response.
 
 ### Submission
 
