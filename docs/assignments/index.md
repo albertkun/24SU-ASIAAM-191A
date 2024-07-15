@@ -8,7 +8,6 @@ tags:
 
 |Assignment|Type|Due|
 |-----------|----|---|
-|[**Project Memo**](./week2/group_assignment.md)|Group Assignment|Wednesday 7/10|
 |[**Technology and Ethics**](./week3/reading.md)|Reading|Monday 7/15|
 |[**Your ethical views**](./week3/thinking_cap.md)|Thinking Cap|Monday 7/15|
 |[**GeoJSONs and Loops**](./week3/lab_assignment.md)|Lab Assignment|Wednesday 7/17|
@@ -20,6 +19,7 @@ tags:
 
 |Assignment|Type|Due|
 |-----------|----|---|
+|[**Project Memo**](./week2/group_assignment.md)|Group Assignment|Wednesday 7/10|
 |[**Whose map? Who is empowered and who is disempowered?**](./week2/reading.md)|Weekly Reading|Monday 7/8|
 |[**Functional Events**](./week2/lab_assignment.md)|Lab|Wednesday 7/10|
 |[**Pre-lab: Intro to Web Dev**](./week1/prelab.md)|Pre-lab|Wednesday 6/26|
