@@ -7,14 +7,15 @@ tags:
 
 # Group Assignment 3 - Survey & Revision of Memo
 
-## Due Wednesday 7/17 at the end of class (survey)
+## Due Wednesday 7/17
 
 Design a survey that will focus on the community voices for your project. As part of this assignment, your group must also check-in with me by the end of week 4.
 
 ### Resouces
 
 The pre-lab on survey design will be helpful to reference:
-- |[**Prelab**](./prelab.md)
+
+- [**Prelab**](./prelab.md)
 
 ## Submission
 

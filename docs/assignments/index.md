@@ -13,6 +13,9 @@ tags:
 |[**GeoJSONs and Loops**](./week3/lab_assignment.md)|Lab Assignment|Wednesday 7/17|
 |[**Pre-lab on Survey Design**](./week3/prelab.md)|Pre-lab|Wednesday 7/17|
 |[**Survey & Revision of Memo**](./week3/group_assignment.md)|Group Assignment|Wednesday 7/17|
+|[**Reading on Design Justice**](./week4/reading.md)|Reading|Monday 7/22|
+|[**Your thoughts on Design Justice**](./week4/thinking_cap.md)|Thinking Cap|Monday 7/22|
+
 
 
 ## Past Assignments
