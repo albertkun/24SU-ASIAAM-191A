@@ -17,4 +17,4 @@
 |2|[MapLibRevisiting Portfolios](../labs/week2/lab1more.md) + Humanizing Technology|Lab + Lecture|[Here](../materials/AA191_S_W2_Lecture_2.pdf)|[Here](https://ucla.zoom.us/rec/share/yDSPnMa0DrP-aBh7fUtCwfVQvG3joa-lk2VuS_u985XuTYUKCUgfN9VBVPII1TP8.JFOlATOhK0whrXgo)
 |2|[JavaScript Writing some FUNctions](../labs/week2/index.md)|Lab|[Here](../materials/AA191_S_W2_Lab_2.pdf)|[Here](https://ucla.zoom.us/rec/share/8IMfEsCA9Z_BN1nsuntdmxr-BP9_pktuAwHIyIQQD583rn_WiZyaw-8f3F6S_W92.7wTnMYxLniD4rXi-)
 |3|Connecting the dots of technology and ethics|Lecture|[Here](../materials/AA191_S_W3_Lecture_3.pdf)|[Here](https://ucla.zoom.us/rec/share/TV69qIft5rKJmABxoKu2kWGD6mHFkBU7ppcQtyK6zHjftBn0uhHF9mJ10CBDCoAj.30gAp3rFCUQxYxLq)|
-|3|For-loops and Geo-J-cieON|Lab|TBD|TBD|
+|3|For-loops and Geo-J-cieON|Lab|[Here](../materials/AA191_S_W3_Lab_3.pdf)|[Here](https://ucla.zoom.us/rec/share/BJFW9f5FejtHmfVDjka_hQ5rPPOEqdjgx3xEsY5P2-j6YBUGjrt4wFELoUF2Ud7Z.oF34elNLkQUIfe9I)|
