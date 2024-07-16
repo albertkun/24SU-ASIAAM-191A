@@ -6,8 +6,8 @@
 |----|-----|
 |#1|[GIS, Data, and Ethics :link:](week01.md)|
 |#2|[Humanizing Technology :link:](week02.md)|
-|#3|[Society, Technology, and Ethics :link:](week03.md)
-|#4|[Open Source and Web Mapping :link:](week04.md)
+|#3|[Society, Technology, and Ethics :link:](week03.md)|
+|#4|[Open Source and Web Mapping :link:](week04.md)|
 
 ## Course Materials
 
@@ -19,6 +19,6 @@
 |2|[JavaScript Writing some FUNctions](../labs/week2/index.md)|Lab|[Here](../materials/AA191_S_W2_Lab_2.pdf)|[Here](https://ucla.zoom.us/rec/share/8IMfEsCA9Z_BN1nsuntdmxr-BP9_pktuAwHIyIQQD583rn_WiZyaw-8f3F6S_W92.7wTnMYxLniD4rXi-)
 |3|Connecting the dots of technology and ethics|Lecture|[Here](../materials/AA191_S_W3_Lecture_3.pdf)|[Here](https://ucla.zoom.us/rec/share/TV69qIft5rKJmABxoKu2kWGD6mHFkBU7ppcQtyK6zHjftBn0uhHF9mJ10CBDCoAj.30gAp3rFCUQxYxLq)|
 |3|For-loops and Geo-J-cieON|Lab|[Here](../materials/AA191_S_W3_Lab_3.pdf)|[Here](https://ucla.zoom.us/rec/share/BJFW9f5FejtHmfVDjka_hQ5rPPOEqdjgx3xEsY5P2-j6YBUGjrt4wFELoUF2Ud7Z.oF34elNLkQUIfe9I)|
-|4|Ethical Software and Developing for Civil Society|Lecture|TBD|TBD|
+|4|Ethical Software and Developing for Civil Society|Lecture|[Here](../materials/AA191_S_W3_Lab_3.pdf)|[https://ucla.zoom.us/rec/share/BfOiS4yd_c9HH7Wl6cz1Gdhv14KId4C-v-8oZX3NyO76LrBIHfoGKazhB8mpQriD.53kDHw2KxqL9FW5t](https://ucla.zoom.us/rec/share/BfOiS4yd_c9HH7Wl6cz1Gdhv14KId4C-v-8oZX3NyO76LrBIHfoGKazhB8mpQriD.53kDHw2KxqL9FW5t)|
 |4|Loops and Google FORMulating Data|Lab + Lecture|TBD|TBD|
 
