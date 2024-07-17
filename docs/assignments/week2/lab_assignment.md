@@ -22,7 +22,7 @@ The requirements are:
 
 - [Commit your changes to GitHub](../../labs/week1/3.md)
 
-- [Commit and publish your file to GitHub pages.](../../labs/week1/3.md#using-github-pages)
+- [Commit and publish your file to GitHub pages.](../../labs/week1/4.md#using-github-pages)
 
 - Find your `index.html` in the `week2` in GitHub Pages and copy the URL. It should look something like this:
   - https://albertkun.github.io/24SU-ASIAAM-191A-Assignments/week2/index.html

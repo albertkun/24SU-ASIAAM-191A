@@ -4,7 +4,7 @@ hide:
 tags:
   - Lab 2
 ---
-# JavaScript Writing some FUNctions
+# Overview - JavaScript Writing some FUNctions
 
 Creating our first map with [MapLibre GL](https://maplibre.org/maplibre-gl-js/docs/) learning to use JavaScript!
 
