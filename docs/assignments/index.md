@@ -8,20 +8,18 @@ tags:
 
 |Assignment|Type|Due|
 |-----------|----|---|
-|[**Technology and Ethics**](./week3/reading.md)|Reading|Monday 7/15|
-|[**Your ethical views**](./week3/thinking_cap.md)|Thinking Cap|Monday 7/15|
 |[**GeoJSONs and Loops**](./week3/lab_assignment.md)|Lab Assignment|Wednesday 7/17|
 |[**Pre-lab on Survey Design**](./week3/prelab.md)|Pre-lab|Wednesday 7/17|
 |[**Survey & Revision of Memo**](./week3/group_assignment.md)|Group Assignment|Wednesday 7/17|
 |[**Reading on Design Justice**](./week4/reading.md)|Reading|Monday 7/22|
 |[**Your thoughts on Design Justice**](./week4/thinking_cap.md)|Thinking Cap|Monday 7/22|
 
-
-
 ## Past Assignments
 
 |Assignment|Type|Due|
 |-----------|----|---|
+|[**Technology and Ethics**](./week3/reading.md)|Reading|Monday 7/15|
+|[**Your ethical views**](./week3/thinking_cap.md)|Thinking Cap|Monday 7/15|
 |[**Project Memo**](./week2/group_assignment.md)|Group Assignment|Wednesday 7/10|
 |[**Whose map? Who is empowered and who is disempowered?**](./week2/reading.md)|Weekly Reading|Monday 7/8|
 |[**Functional Events**](./week2/lab_assignment.md)|Lab|Wednesday 7/10|
