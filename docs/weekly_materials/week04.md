@@ -10,7 +10,7 @@ tags:
 Date|Type|Description|Slides|Recording|
 |---|----|-----------|------|---------|
 |7/15|Ethical Software and Developing for Civil Society|Lecture|[Here](../materials/AA191_S_W4_Lecture_4.pdf)|[Here](https://ucla.zoom.us/rec/share/BfOiS4yd_c9HH7Wl6cz1Gdhv14KId4C-v-8oZX3NyO76LrBIHfoGKazhB8mpQriD.53kDHw2KxqL9FW5t)|
-|7/17|Loops and Google FORMulating Data|Lab + Lecture|TBD|TBD|
+|7/17|Loops and Google FORMulating Data|Lab + Lecture|[Here](../materials/AA191_S_W4_Lab_4.pdf)|[Here](https://ucla.zoom.us/rec/share/5ispFNnoVrk814ShGik2vREPWWgVEB5IqKFGE0mcfPn2krP9mHTDzj3c2om9MGoL.Yr-bQpdJUxQpzk3V​​​)|
 
 ## Lecture
 
