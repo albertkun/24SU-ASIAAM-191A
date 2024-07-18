@@ -23,4 +23,4 @@ The requirements are:
 - Find your `index.html` in the `week5` folder and copy the URL. It should look something like this:
   - https://albertkun.github.io/24SU-ASIAAM-191A-Assignments/week5/index.html
 - Paste your link as a comment in the Discussion forum for Lab Assignment #4:
-  - https://github.com/albertkun/24SU-ASIAAM-191A/discussions/18
+  - https://github.com/albertkun/24SU-ASIAAM-191A/discussions/51
