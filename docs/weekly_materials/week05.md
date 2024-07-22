@@ -9,14 +9,23 @@ Date|Type|Description|Slides|Recording|
 
 - Putting the "us" in design justice
 
+### Visiting Voice: Nina Kin (on Wednesday)
+
+![./media/ninakin.png](../media/ninakin.png){: style="max-width:350px"}
+
+[Nina Kin](http://www.ninakin.com/) works as the [Technical Lead at Los Angeles Metro](https://developer.metro.net/api/) and active in spaces of civic tech and mapping. She is a full stack programmer and technology generalist who is passionate about improving the way government works.
+
+Contact: [KinN@metro.net](mailto:KinN@metro.net)
+
 ## Lab
 
 - Design DeciCSSions
 
 ## Group Exercise
 
-Instructions here:
+Go here:
 
+- https://docs.google.com/spreadsheets/d/1z8Wi2X4Qu1pp10-ArU6qgb9aINBtdKnSybHFJvTTRwE/edit?gid=1607434774#gid=1607434774
 
 ## Assignments
 
@@ -30,13 +39,9 @@ Instructions here:
 
 ### Due Wednesday 7/24
 
-- [Lab Assignment #4](../assignments/week5/lab_assignment.md)
+- [Lab Assignment #4](../assignments/week4/lab_assignment.md)
 
-- [Thinking Cap #5](../assignments/week6/thinking_cap.md)
 
-### Due Thursday 5/18
-- [Lab Assignment #5](../assignments/week6/lab_assignment.md)
-
-### Due Tuesday 5/23
-- [Group Assignment #4](../assignments/week6/group_assignment.md)
+### Due Monday 7/29
+- [Group Assignment #4](../assignments/week5/group_assignment.md)
 
