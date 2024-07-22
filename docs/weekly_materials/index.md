@@ -8,6 +8,7 @@
 |#2|[Humanizing Technology :link:](week02.md)|
 |#3|[Society, Technology, and Ethics :link:](week03.md)|
 |#4|[Open Source and Web Mapping :link:](week04.md)|
+|#5|[Human-Centered Design :link:](week05.md)|
 
 ## Course Materials
 
@@ -21,4 +22,5 @@
 |3|For-loops and Geo-J-cieON|Lab|[Here](../materials/AA191_S_W3_Lab_3.pdf)|[Here](https://ucla.zoom.us/rec/share/BJFW9f5FejtHmfVDjka_hQ5rPPOEqdjgx3xEsY5P2-j6YBUGjrt4wFELoUF2Ud7Z.oF34elNLkQUIfe9I)|
 |4|Ethical Software and Developing for Civil Society|Lecture|[Here](../materials/AA191_S_W4_Lecture_4.pdf)|[Here](https://ucla.zoom.us/rec/share/BfOiS4yd_c9HH7Wl6cz1Gdhv14KId4C-v-8oZX3NyO76LrBIHfoGKazhB8mpQriD.53kDHw2KxqL9FW5t)|
 |4|Loops and Google FORMulating Data|Lab + Lecture|[Here](../materials/AA191_S_W4_Lab_4.pdf)|[Here](https://ucla.zoom.us/rec/share/5ispFNnoVrk814ShGik2vREPWWgVEB5IqKFGE0mcfPn2krP9mHTDzj3c2om9MGoL.Yr-bQpdJUxQpzk3V)
+|5|Putting the "us" in design justice|Lecture|TBD|TBD|
 
