@@ -2,7 +2,7 @@
 
 Date|Type|Description|Slides|Recording|
 |---|----|-----------|------|---------|
-|7/22|Putting the "us" in design justice|Lecture|TBD|TBD|
+|7/22|Putting the "us" in design justice|Lecture|[Here](../materials/AA191_S_W5_Lecture_5.pdf)|[Here](https://ucla.zoom.us/rec/share/z6ZSWHSrC8KmaF_ykIxb8U2CX--7qykq4Hp2-wAUyAqX5TeLk3gSNH1be9TJw-jc.LJSmsyGMo_Bvdah6)|
 |7/24|Design DeciCSSions|Lab|TBD|TBD|
 
 ## Lecture

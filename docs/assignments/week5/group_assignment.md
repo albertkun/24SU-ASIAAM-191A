@@ -1,16 +1,21 @@
 # Group Assignment #4 - Rough Draft
+
 ### Due 7/29
+
 Create a functional (doesn't have to be pretty or clean) version of your mapplication using the survey from students in class. 
 
 This assignment will be graded on the following:
 
 1. Fulfillment of the user stories set forth in the memo
+
 2. Relevant functionality that is specific to empowering community voices
+
 3. An updated `readme.md` for the repository that describes:
-   1. The technology used for the project
+   1.  The technology used for the project
    2. How others could use this in the future
       - Feel free to reference the memo
-5. A very short 3-minute presentation answering:
+
+4. A very short 3-minute presentation answering:
    1. Who is the project for and why is it important?
    2. How does the website empower people?
    3. What changes you would like to focus on between now and the final? Why?
