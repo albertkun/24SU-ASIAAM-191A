@@ -17,8 +17,11 @@ This assignment will be graded on the following:
    - How others could use this in the future (feel free to reference the memo's long term impact section)
 
 4. A very short 3-minute presentation answering:
+
    - Who is the project for and why is it important?
+
    - How does the website empower people?
+
    - What changes you would like to focus on between now and the final? Why?
 
 
