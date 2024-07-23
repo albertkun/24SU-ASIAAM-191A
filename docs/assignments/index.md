@@ -8,16 +8,17 @@ tags:
 
 |Assignment|Type|Due|
 |-----------|----|---|
-|[**Survey & Revision of Memo**](./week3/group_assignment.md)|Group Assignment|Monday 7/22|
-|[**Reading on Design Justice**](./week4/reading.md)|Reading|Monday 7/22|
-|[**Your thoughts on Design Justice**](./week4/thinking_cap.md)|Thinking Cap|Monday 7/22|
 |[**Lab Assignment #4 - APIs and conditionals**](./week4/lab_assignment.md)|Lab Assignment|Wednesday 7/24|
+|[**Rough Draft**](./week5/group_assignment.md)|Group Assignment|Monday 7/29
 |[**Final Thinking Cap**](./week5/thinking_cap.md)|Thinking Cap|Wednesday 7/31|
 
 ## Past Assignments
 
 |Assignment|Type|Due|
 |-----------|----|---|
+|[**Survey & Revision of Memo**](./week3/group_assignment.md)|Group Assignment|Monday 7/22|
+|[**Reading on Design Justice**](./week4/reading.md)|Reading|Monday 7/22|
+|[**Your thoughts on Design Justice**](./week4/thinking_cap.md)|Thinking Cap|Monday 7/22|
 |[**GeoJSONs and Loops**](./week3/lab_assignment.md)|Lab Assignment|Wednesday 7/17|
 |[**Pre-lab on Survey Design**](./week3/prelab.md)|Pre-lab|Wednesday 7/17|
 |[**Technology and Ethics**](./week3/reading.md)|Reading|Monday 7/15|
