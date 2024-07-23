@@ -11,19 +11,13 @@ This assignment will be graded on the following:
 2. Relevant functionality that is specific to empowering community voices
 
 3. An updated `readme.md` for the repository that describes:
-
    - The technology used for the project
-
    - How others could use this in the future
-
       - Feel free to reference the memo
 
 4. A very short 3-minute presentation answering:
-
    - Who is the project for and why is it important?
-
    - How does the website empower people?
-
    - What changes you would like to focus on between now and the final? Why?
 
 
