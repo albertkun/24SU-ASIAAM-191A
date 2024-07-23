@@ -12,19 +12,19 @@ This assignment will be graded on the following:
 
 3. An updated `readme.md` for the repository that describes:
 
-   1.  The technology used for the project
+   - The technology used for the project
 
-   2. How others could use this in the future
+   - How others could use this in the future
 
       - Feel free to reference the memo
 
 4. A very short 3-minute presentation answering:
 
-   1. Who is the project for and why is it important?
+   - Who is the project for and why is it important?
 
-   2. How does the website empower people?
+   - How does the website empower people?
 
-   3. What changes you would like to focus on between now and the final? Why?
+   - What changes you would like to focus on between now and the final? Why?
 
 
 **Everyone is required to speak.**
