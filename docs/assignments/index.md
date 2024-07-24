@@ -11,6 +11,7 @@ tags:
 |[**Lab Assignment #4 - APIs and conditionals**](./week4/lab_assignment.md)|Lab Assignment|Wednesday 7/24|
 |[**Rough Draft**](./week5/group_assignment.md)|Group Assignment|Monday 7/29
 |[**Final Thinking Cap**](./week5/thinking_cap.md)|Thinking Cap|Wednesday 7/31|
+|[**Final Project**](./final.md)|Final Project|Wednesday 7/31|
 
 ## Past Assignments
 
