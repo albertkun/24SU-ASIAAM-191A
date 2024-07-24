@@ -3,7 +3,7 @@
 Date|Type|Description|Slides|Recording|
 |---|----|-----------|------|---------|
 |7/22|Putting the "us" in design justice|Lecture|[Here](../materials/AA191_S_W5_Lecture_5.pdf)|[Here](https://ucla.zoom.us/rec/share/z6ZSWHSrC8KmaF_ykIxb8U2CX--7qykq4Hp2-wAUyAqX5TeLk3gSNH1be9TJw-jc.LJSmsyGMo_Bvdah6)|
-|7/24|Design DeciCSSions|Lab|TBD|TBD|
+|7/24|Final Finishing Touches|Lab|TBD|TBD|
 
 ## Lecture
 
@@ -19,13 +19,13 @@ Contact: [KinN@metro.net](mailto:KinN@metro.net)
 
 ## Lab
 
-- Design DeciCSSions
+- [Final Finishing Touches, Map Layers, and Visual Design](../labs/week5/index.md)
 
 ## Group Exercise
 
 Go here:
 
-- https://docs.google.com/spreadsheets/d/1z8Wi2X4Qu1pp10-ArU6qgb9aINBtdKnSybHFJvTTRwE/edit?gid=1607434774#gid=1607434774
+- https://docs.google.com/document/d/1kcGx71AmO4hV8BAvtXagyAZaWLstdowRSzRFWe8_Ge0/edit
 
 ## Assignments
 
