@@ -7,7 +7,7 @@
 |#2|[JavaScript FUNctions](week2/index.md)|Functions, Variables, Methods, Events|
 |#3|[For-hoops and Geo-J-cieON](week3/index.md)|Events, Functions, Methods|
 |#4|[Forms, Geocoding, Conditionals, and APIs, oh my!](week4/index.md)|Forms, Conditionals, APIs|
-|#5|[Final Touch-ups](week5.index.md)|JavaScript, HTML, CSS|
+|#5|[Final Touch-ups](week5/index.md)|JavaScript, HTML, CSS|
 
 !!! warning "Remember!"
     Unless specified otherwise, all assignments are **due at the beginning of class**. Late assignments will be given half credit up until a week.
