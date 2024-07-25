@@ -16,7 +16,7 @@ One group will be for `yes` and another group for `no`.
 ## Lab outline
 
 1. [Final Touch ups](./1.md)
-2. [Adding categories in our `addMarker()` function](./2.md)
+2. [Adding categories and legend in our `addMarker()` function](./2.md)
 
 Start by creating a `week5` folder in your lab assignments repo.
 
