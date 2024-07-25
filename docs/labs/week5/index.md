@@ -62,14 +62,14 @@ Start by creating a `week5` folder in your lab assignments repo.
 ```
 
 ```js title="js/init.js" linenums="1"
-
+// declare variables
 let mapOptions = {'centerLngLat': [-118.444,34.0709],'startingZoomLevel':5}
 
 const map = new maplibregl.Map({
-	container: 'map', 
-	style: 'https://api.maptiler.com/maps/streets-v2-light/style.json?key=wsyYBQjqRwKnNsZrtci1', 
-	center: mapOptions.centerLngLat, [lng, lat]
-	zoom: mapOptions.startingZoomLevel level
+	container: 'map', // container ID
+	style: 'https://api.maptiler.com/maps/streets-v2-light/style.json?key=wsyYBQjqRwKnNsZrtci1', // Your style URL
+	center: mapOptions.centerLngLat, // Starting position [lng, lat]
+	zoom: mapOptions.startingZoomLevel // Starting zoom level
 });
 
 function addMarker(data){
@@ -106,22 +106,25 @@ function createButtons(lat,lng,title){
 
 const dataUrl = "https://docs.google.com/spreadsheets/d/e/2PACX-1vSNq8_prhrSwK3CnY2pPptqMyGvc23Ckc5MCuGMMKljW-dDy6yq6j7XAT4m6GG69CISbD6kfBF0-ypS/pub?output=csv"
 
-
+// When the map is fully loaded, start adding GeoJSON data
 map.on('load', function() {
-    a Google Forms spreadsheet URL
+    // Use PapaParse to fetch and parse the CSV data from a Google Forms spreadsheet URL
     Papa.parse(dataUrl, {
-        download: true, CSV data from the URL
-        header: true, are column headers
+        download: true, // Tells PapaParse to fetch the CSV data from the URL
+        header: true, // Assumes the first row of your CSV are column headers
         complete: function(results) {
-            
-            processData(results.data); function to handle CSV data
+            // Process the parsed data
+            processData(results.data); // Use a new function to handle CSV data
         }
     });
 });
 
 function processData(results){
+	console.log(results) //for debugging: this can help us see if the results are what we want
 	results.forEach(feature => {
-		"message" attribute
+		//console.log(feature) // for debugging: are we seeing each feature correctly?
+		// assumes your geojson has a "title" and "message" attribute
+		// let coordinates = feature.geometry.coordinates;
 		let longitude = feature['lng']
 		let latitude = feature['lat'];
 		let title = feature['Where did you get vaccinated?'];
