@@ -5,7 +5,7 @@
 
 Date|Type|Description|Slides|Recording|
 |---|----|-----------|------|---------|
-|7/29|Collaborating with GitHub and Plugins|Lab|TBD|TBD|
+|7/29|Collaborating with GitHub and Plugins|Lab|[Here](../materials/AA191_S_W6_Lab_6.pdf)|[Here](https://ucla.zoom.us/rec/share/oPNok5SOIDXVBVFGnKS0BLzXqnryYFsib_7lTl7UW-l4HTfxxlySeftp-nrLu_Ff.qPX3cOYQc0tfEd49)|
 |7/31|Beyond Web Development and GIS for Social Change|Lecture|None|None|
 
 ## Lab

@@ -1,6 +1,6 @@
 # Final Group Assignment
 
-### Due 7/31 3pm - 6pm
+### Due 7/31 ~4pm - 7pm
 As our course nears the end, the final group project is the way to practice implementing the skills and ethical frameworks in the class. Your task as a group is to work together to complete the community empowerment web application based off of the rough draft from Week 9. The final project should be fully functional with no bugs and must have an intuitive interface for the user stories outlined in the project memo.
 
 Groups will give a 10-12 minute presentation with another 5 minutes for questions and answers. Everyone must speak. Please see the requirements below for more details. 
@@ -57,9 +57,9 @@ Your final `readme.md` should have the following parts:
 
   - Who is being empowered (Assignment #2)
 
-- What technology was used (Assignment #5)
+- What technology was used (Assignment #4)
 
-- How it can be repurposed (Assignment #5)
+- How it can be repurposed (Assignment #4)
 
 - Features and a screenshot(s) of the mapplication
 

@@ -25,4 +25,4 @@
 |4|Loops and Google FORMulating Data|Lab + Lecture|[Here](../materials/AA191_S_W4_Lab_4.pdf)|[Here](https://ucla.zoom.us/rec/share/5ispFNnoVrk814ShGik2vREPWWgVEB5IqKFGE0mcfPn2krP9mHTDzj3c2om9MGoL.Yr-bQpdJUxQpzk3V)
 |5|Putting the "us" in design justice|Lecture|[Here](../materials/AA191_S_W5_Lecture_5.pdf)|[Here](https://ucla.zoom.us/rec/share/z6ZSWHSrC8KmaF_ykIxb8U2CX--7qykq4Hp2-wAUyAqX5TeLk3gSNH1be9TJw-jc.LJSmsyGMo_Bvdah6)|
 |5|Mentorship and Final Finishing Touches|Lab|[Here](../materials/AA191_S_W5_Lab_5.pdf)|[Here](https://ucla.zoom.us/rec/share/R3gnj941VfvGH0w-Q0koE-aX_9n5T3sRVJV8rbGZAoh0Y6VobH03R7SQc7PodYlS.Zj9_yL3fBqYFNw74)|
-|6|Collaborating with GitHub and Plugins|Lab|TBD|TBD|
+|6|Collaborating with GitHub and Plugins|Lab|[Here](../materials/AA191_S_W6_Lab_6.pdf)|[Here](https://ucla.zoom.us/rec/share/oPNok5SOIDXVBVFGnKS0BLzXqnryYFsib_7lTl7UW-l4HTfxxlySeftp-nrLu_Ff.qPX3cOYQc0tfEd49)|
