@@ -3,7 +3,7 @@
 ### Due 7/31 ~4pm - 7pm
 As our course nears the end, the final group project is the way to practice implementing the skills and ethical frameworks in the class. Your task as a group is to work together to complete the community empowerment web application based off of the rough draft from Week 9. The final project should be fully functional with no bugs and must have an intuitive interface for the user stories outlined in the project memo.
 
-Groups will give a 10-12 minute presentation with another 5 minutes for questions and answers. Everyone must speak. Please see the requirements below for more details. 
+Groups will give a 10-15 minute presentation with another 5 minutes for questions and answers. Everyone must speak. Please see the requirements below for more details. 
 
 Between 7/29 and 7/31, each member **must** individually take this group evaluation:
 
@@ -36,7 +36,7 @@ How well does your website consider the user stories and the user experience for
 
 ### 4. **Final Presentation**
 
-Give a 12 to 15 minute presentation explaining the application, who it's designed to empower, and how it is a unique contribution to the transforming civil society. All members are required to speak roughly equal amounts of time. You are free to use any presentation platforms, like Powerpoint, GoogleSlides, etc., but be sure to set aside some time to demo the project and/or take screenshots of it. Rehearse the presentation at least once or twice and time it. **Presentations that go over the 15 minutes will lose 5 points per minute**.
+Give a 10 to 15 minute presentation explaining the application, who it's designed to empower, and how it is a unique contribution to the transforming civil society. All members are required to speak roughly equal amounts of time. You are free to use any presentation platforms, like Powerpoint, GoogleSlides, etc., but be sure to set aside some time to demo the project and/or take screenshots of it. Rehearse the presentation at least once or twice and time it. **Presentations that go over the 15 minutes will lose 5 points per minute**.
 
 ### 5. **Individual Group Evaluation** 
 
